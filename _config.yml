@@ -1,0 +1,36 @@
+color:
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.4979569825809449
+  lightness: 0.2149525189306587
+  saturation: 0.6956248222850263
+  rhythmicContrast: 0.04583167191594839
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: henryquinn
+layout_spectrum: 0.5426685388665646
+typography_spectrum: 0.29260122939012945
+content: []
+title: Henry E. Quinn IV
+description: <Web Developer  />
+purpose:
+  - type: external
+    url: 'https://github.com/quinncuatro'
+    label: GitHub
+  - type: email
+    url: 'mailto:henryquinniv@gmail.com'
+    label: Contact Me
+github: true
+author:
+  name: Henry Quinn
+  email: henryquinniv@gmail.com
+  url: 'https://henryneeds.coffee'
